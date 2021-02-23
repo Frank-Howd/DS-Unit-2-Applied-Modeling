@@ -13,6 +13,8 @@ matplotlib = "*"
 seaborn = "*"
 plotly = "*"
 xgboost = "*"
+graphviz = "*"
+requests = "*"
 
 [dev-packages]
 
