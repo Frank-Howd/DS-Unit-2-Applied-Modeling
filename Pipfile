@@ -15,6 +15,7 @@ plotly = "*"
 xgboost = "*"
 graphviz = "*"
 requests = "*"
+joblib = "==1.0.1"
 
 [dev-packages]
 
